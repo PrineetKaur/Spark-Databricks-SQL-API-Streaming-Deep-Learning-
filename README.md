@@ -10,7 +10,7 @@ This repository contains multiple scripts (developed as assignments during a Mas
 ## Table of Contents
 
 1. [About the Project](#Project-Overview).
-2. [Prerequisites & Setup](#Prerequisites-Setup). 
+2. [Prerequisites & Setup](#Prerequisites-and-Setup). 
 3. [Usage](#Project-Usage). 
 4. [Tutorial Walkthrough](#Assignment-Summaries). 
 
@@ -30,7 +30,7 @@ It is designed as an educational project, but can also be a reference for develo
 
 ---
 
-## Prerequisites & Setup
+## Prerequisites and Setup
 
 #### You’ll need the following installed:
 
