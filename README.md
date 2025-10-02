@@ -8,14 +8,11 @@ This repository contains multiple scripts (developed as assignments during a Mas
 ---
 
 ### 📚 Table of Contents
-1. [About the Project](#about-the-project)  
+1. [About the Project](#Project Overview)  
 2. [Prerequisites & Setup](#prerequisites--setup)  
 3. [Repository Structure](#repository-structure)  
-4. [Usage](#usage)  
-5. [Tutorial Walkthrough](#tutorial-walkthrough)  
-6. [Script Reference](#script-reference)  
-7. [Future Work](#future-work)  
-8. [License](#license)
+4. [Usage](#Project Usage)  
+5. [Tutorial Walkthrough](#Assignment Summaries)  
 
 ---
 
@@ -63,7 +60,7 @@ Or specify parameters (if applicable):
 
 ---
 
-### 𝍌 Assignment summaries
+### 𝍌 Assignment Summaries
 	•	Assignment 1 → [Batch data ingestion & Spark SQL queries]
 	•	Assignment 2 → [Streaming ingestion and window aggregations]
 	•	Assignment 3 → [Applying deep learning inference on streaming data with API integration]
