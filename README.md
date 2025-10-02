@@ -7,15 +7,15 @@ This repository contains multiple scripts (developed as assignments during a Mas
 
 ---
 
-### 📚 Table of Contents
-1. [About the Project](Project--Overview)  
-2. [Prerequisites & Setup](Prerequisites--&--Setup)  
-3. [Usage](Project--Usage)  
-4. [Tutorial Walkthrough](Assignment--Summaries)  
+## 📚 Table of Contents
+1. [About the Project](#Project--Overview)  
+2. [Prerequisites & Setup](#Prerequisites--&--Setup)  
+3. [Usage](#Project--Usage)  
+4. [Tutorial Walkthrough](#Assignment--Summaries)  
 
 ---
 
-### 📖 Project Overview
+## 📖 Project Overview
 
 This repository showcases how Spark and Databricks can be used to solve real-world data engineering and machine learning challenges.  
 The assignments demonstrate:
@@ -29,9 +29,9 @@ It is designed as an educational project but can also be a reference for develop
 
 ---
 
-### ⚙️ Prerequisites & Setup
+## ⚙️ Prerequisites & Setup
 
-##### You’ll need the following installed:
+#### You’ll need the following installed:
 
 - Python 3.7+  
 - Apache Spark (or a Databricks environment)  
@@ -42,7 +42,7 @@ It is designed as an educational project but can also be a reference for develop
 
 - Optional: Access to Databricks cluster or streaming data source (Kafka/socket/files)
 
-##### Set environment variables as needed:
+#### Set environment variables as needed:
 
  	 export SPARK_HOME=/path/to/spark
  	 export PYTHONPATH=$SPARK_HOME/python:$PYTHONPATH
@@ -50,7 +50,7 @@ It is designed as an educational project but can also be a reference for develop
 
 ---
 
-### ▶️ Project Usage
+## ▶️ Project Usage
 To run an assignment locally:
 	python "Assignment_1_Prineet Kaur Bhurji.py"
 
@@ -59,7 +59,7 @@ Or specify parameters (if applicable):
 
 ---
 
-### 𝍌 Assignment Summaries
+## 𝍌 Assignment Summaries
 	•	Assignment 1 → [Batch data ingestion & Spark SQL queries]
 	•	Assignment 2 → [Streaming ingestion and window aggregations]
 	•	Assignment 3 → [Applying deep learning inference on streaming data with API integration]
