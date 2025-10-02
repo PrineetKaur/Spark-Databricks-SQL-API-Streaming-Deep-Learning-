@@ -19,7 +19,7 @@ This repository contains multiple scripts (developed as assignments during a Mas
 
 ---
 
-### 📖 About the Project
+### 📖 Project Overview
 
 This repository showcases how Spark and Databricks can be used to solve real-world data engineering and machine learning challenges.  
 The assignments demonstrate:
