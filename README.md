@@ -35,28 +35,31 @@ It is designed as an educational project but can also be a reference for develop
 
 ### ⚙️ Prerequisites & Setup
 
-You’ll need the following installed:
+##### You’ll need the following installed:
 
 - Python 3.7+  
 - Apache Spark (or a Databricks environment)  
 - Python libraries (install via pip):  
-  ```bash
-  pip install pyspark pandas numpy requests tensorflow torch
 
-  •	Optional: Access to Databricks cluster or streaming data source (Kafka/socket/files)
+	```
+ 	pip install pyspark pandas numpy requests tensorflow torch
 
-Set environment variables as needed:
-  export SPARK_HOME=/path/to/spark
-  export PYTHONPATH=$SPARK_HOME/python:$PYTHONPATH
+- Optional: Access to Databricks cluster or streaming data source (Kafka/socket/files)
+
+##### Set environment variables as needed:
+
+ 	 export SPARK_HOME=/path/to/spark
+ 	 export PYTHONPATH=$SPARK_HOME/python:$PYTHONPATH
+
 
 ---
 
 ### ▶️ Project Usage
 To run an assignment locally:
-  python "Assignment_1_Prineet Kaur Bhurji.py"
+	python "Assignment_1_Prineet Kaur Bhurji.py"
 
 Or specify parameters (if applicable):
-  python "Assignment_3_Prineet Kaur Bhurji.py" --model_path models/model.pt --api_endpoint https://api.example.com
+  	python "Assignment_3_Prineet Kaur Bhurji.py" --model_path models/model.pt --api_endpoint https://api.example.com
 
 ---
 
