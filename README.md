@@ -7,19 +7,20 @@ This repository contains multiple scripts (developed as assignments during a Mas
 
 ---
 
-## 📚 Table of Contents
-1. [About the Project](Project--Overview)  
-2. [Prerequisites & Setup](Prerequisites--&--Setup)  
-3. [Usage](Project--Usage)  
-4. [Tutorial Walkthrough](Assignment--Summaries)  
+## Table of Contents
+
+1. [About the Project](#Project-Overview).
+2. [Prerequisites & Setup](#Prerequisites-&-Setup). 
+3. [Usage](#Project-Usage). 
+4. [Tutorial Walkthrough](#Assignment--Summaries). 
 
 ---
 
-## 📖 Project Overview 
+## Project Overview 
 
-This repository showcases how Spark and Databricks can be used to solve real-world data engineering and machine learning challenges.  
+This repository demonstrates how Spark and Databricks can be leveraged to address real-world data engineering and machine learning challenges.  
+
 The assignments demonstrate:
-
 - Batch and streaming **data ingestion**  
 - **Spark SQL** transformations and queries  
 - Calling **external APIs** from Spark pipelines  
@@ -29,7 +30,7 @@ It is designed as an educational project, but can also be a reference for develo
 
 ---
 
-## ⚙️ Prerequisites & Setup
+## Prerequisites & Setup
 
 #### You’ll need the following installed:
 
@@ -50,7 +51,7 @@ It is designed as an educational project, but can also be a reference for develo
 
 ---
 
-## ▶️ Project Usage
+## Project Usage
 To run an assignment locally:
 	python "Assignment_1_Prineet Kaur Bhurji.py"
 
@@ -59,7 +60,7 @@ Or specify parameters (if applicable):
 
 ---
 
-## 𝍌 Assignment Summaries
+## Assignment Summaries
 	•	Assignment 1 → [Batch data ingestion & Spark SQL queries]
 	•	Assignment 2 → [Streaming ingestion and window aggregations]
 	•	Assignment 3 → [Applying deep learning inference on streaming data with API integration]
