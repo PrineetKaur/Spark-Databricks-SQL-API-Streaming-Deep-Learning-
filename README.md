@@ -8,14 +8,14 @@ This repository contains multiple scripts (developed as assignments during a Mas
 ---
 
 ## 📚 Table of Contents
-1. [About the Project](#Project--Overview)  
-2. [Prerequisites & Setup](#Prerequisites--&--Setup)  
-3. [Usage](#Project--Usage)  
-4. [Tutorial Walkthrough](#Assignment--Summaries)  
+1. [About the Project](Project--Overview)  
+2. [Prerequisites & Setup](Prerequisites--&--Setup)  
+3. [Usage](Project--Usage)  
+4. [Tutorial Walkthrough](Assignment--Summaries)  
 
 ---
 
-## 📖 Project Overview
+## 📖 Project Overview 
 
 This repository showcases how Spark and Databricks can be used to solve real-world data engineering and machine learning challenges.  
 The assignments demonstrate:
@@ -25,7 +25,7 @@ The assignments demonstrate:
 - Calling **external APIs** from Spark pipelines  
 - Applying **deep learning models** for inference on streaming data  
 
-It is designed as an educational project but can also be a reference for developers starting with Spark + ML pipelines.
+It is designed as an educational project, but can also be a reference for developers starting with Spark + ML pipelines.
 
 ---
 
