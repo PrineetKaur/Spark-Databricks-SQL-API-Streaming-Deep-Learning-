@@ -8,10 +8,10 @@ This repository contains multiple scripts (developed as assignments during a Mas
 ---
 
 ### 📚 Table of Contents
-1. [About the Project](#Project--Overview)  
-2. [Prerequisites & Setup](#Prerequisites--&--Setup)  
-3. [Usage](#Project--Usage)  
-4. [Tutorial Walkthrough](#Assignment--Summaries)  
+1. [About the Project](Project--Overview)  
+2. [Prerequisites & Setup](Prerequisites--&--Setup)  
+3. [Usage](Project--Usage)  
+4. [Tutorial Walkthrough](Assignment--Summaries)  
 
 ---
 
