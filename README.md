@@ -2,7 +2,7 @@
 
 ## (Individual project from my Big Data Analytics Master's 2020 batch)
 
-A PySpark / Databricks combining **SQL queries, API integration, streaming pipelines, and deep learning inference**.  
+A PySpark / Databricks project combining **SQL queries, API integration, streaming pipelines, and deep learning inference**.  
 This repository contains multiple scripts (developed as assignments during a Master’s program in Big Data Analytics) that demonstrate how to build scalable data workflows on Spark.
 
 ---
